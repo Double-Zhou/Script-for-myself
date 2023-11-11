@@ -1,2 +1,2 @@
-# Script-for-myself
+# Script
 qx
